@@ -1,0 +1,9 @@
+Building FIFAWCCoin
+
+See doc/readme-qt.rst for instructions on building FIFAWCCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FIFAWCCoin.
+
+See doc/build-*.txt for instructions on building FIFAWCCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FIFAWCCoin.
